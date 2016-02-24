@@ -1,5 +1,7 @@
 # SlidingCard [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-SlidingCard-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2355)
 
+## 中文讲解地址: http://www.lesscode.cn/index.php?s=/view-index-id-205.shtml
+
 ![Showcase](screen.gif)
 
 Sliding cards with pretty gallery effects.
